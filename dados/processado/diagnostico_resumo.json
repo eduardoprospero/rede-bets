@@ -1,0 +1,67 @@
+{
+  "competencia_receita": "2026-09",
+  "cnpjs_spa": 82,
+  "achados_na_receita": 82,
+  "nao_achados": [],
+  "ativas": 82,
+  "nao_ativas": [],
+  "sociedades_anonimas": 22,
+  "bets_sem_nenhum_socio_no_qsa": [],
+  "nomes_que_nao_conferem": [
+    "56147145000174",
+    "55933850000134",
+    "54923003000126",
+    "55881028000177",
+    "53837227000152",
+    "24038490000183",
+    "52639845000125",
+    "51897834000182",
+    "55980542000160",
+    "56431248000161",
+    "31853299000150",
+    "55404799000173",
+    "47123407000170",
+    "46786961000174",
+    "56441713000145",
+    "34935286000119",
+    "55229080000143",
+    "50587712000127",
+    "55258645000110",
+    "40633348000130",
+    "23159703000162",
+    "56268974000105",
+    "56875122000186",
+    "56504413000168",
+    "17385948000105",
+    "06023798000173",
+    "54989030000100",
+    "55238676000100",
+    "56885537000130",
+    "52868380000184",
+    "55080231000144"
+  ],
+  "linhas_nivel1": 418,
+  "socios_por_tipo": {
+    "PF": 347,
+    "PJ": 71
+  },
+  "socios_pj_distintos_a_expandir": 71,
+  "tamanho_documento_por_tipo": [
+    {
+      "tipo": "1",
+      "doc_len": 8,
+      "n": 71
+    },
+    {
+      "tipo": "2",
+      "doc_len": 11,
+      "n": 347
+    }
+  ],
+  "pf_chaves_em_mais_de_uma_bet": 16,
+  "pj_em_mais_de_uma_bet": 17,
+  "alertas": [
+    "Há S.A. entre as bets: o QSA delas mostra administradores, não acionistas. Buscar estatuto/Junta/CVM.",
+    "CNPJs de sócios PJ com tamanho diferente de 14: revise a carga."
+  ]
+}

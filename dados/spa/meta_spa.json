@@ -1,0 +1,13 @@
+{
+  "executado_em": "2026-09-20T23:12:56",
+  "origem_autorizacoes": "data/planilha-de-autorizacoes-1.csv",
+  "info_autorizacoes": {
+    "formato": "csv",
+    "encoding": "utf-8-sig",
+    "separador": ";"
+  },
+  "n_autorizacoes": 186,
+  "n_cnpjs_distintos": 82,
+  "n_raizes_distintas": 82,
+  "n_marcas": 186
+}
